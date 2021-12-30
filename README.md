@@ -1,1 +1,1 @@
-THis repo is just for learning
+THis repo is just for learning.
